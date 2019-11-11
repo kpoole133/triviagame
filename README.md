@@ -1,1 +1,1 @@
-# triviagame
+A trivia game about web development.
