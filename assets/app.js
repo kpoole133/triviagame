@@ -1,10 +1,10 @@
 "use strict";
 
-$("#alert-correct").hide();
-$("#alert-error").hide();
 
 $(document).ready(() =>{
-
+  
+  $("#alert-correct").hide();
+  $("#alert-error").hide();
   let qaCount = 0;
   let points = 0;
   let errors = 0;
