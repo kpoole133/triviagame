@@ -1,4 +1,4 @@
-const qa = [
+let qa = [
     { question : "Which is an improper CSS width?",
       answers :  [
         "width: vw;",
