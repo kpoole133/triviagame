@@ -1,6 +1,3 @@
-"use strict";
-
-
 $(document).ready(() =>{
   
   $("#alert-correct").hide();
